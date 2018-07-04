@@ -1,0 +1,31 @@
+﻿  ArcCamera.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\arccamera.cpp(9): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  Dx11DemoBase.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  FirstPersonCamera.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\firstpersoncamera.cpp(3): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  Frog.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  GameObject.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  main.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\main.cpp(7): fatal error C1083: Nie można otworzyć pliku dołącz: 'Windows.h': No such file or directory
+  Mesh.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  ModelsDemo.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  MovingObject.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  objLoader.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\objloader.cpp(9): fatal error C1083: Nie można otworzyć pliku dołącz: 'fstream': No such file or directory
+  player.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\player.h(11): fatal error C1083: Nie można otworzyć pliku dołącz: 'new': No such file or directory
+  Rhino.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  Shuriken.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  Texture.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\dx11demobase.h(12): fatal error C1083: Nie można otworzyć pliku dołącz: 'd3d11.h': No such file or directory
+  TokenStream.cpp
+c:\users\daniel\downloads\models new 2.6 [final]\models new 2.6 [final]\models\tokenstream.cpp(9): fatal error C1083: Nie można otworzyć pliku dołącz: 'string': No such file or directory
+  Generowanie kodu...
